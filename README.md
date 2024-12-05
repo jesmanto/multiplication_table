@@ -199,6 +199,9 @@ git push -u origin main
 >
 >- The Third test demonstrates that the user entered a valid number, and also specified the want to see a partial multiplication table, and entered a valid range. 
 
+Open the [multiplication_table.sh](./multiplication_table.sh) to see the full script.
+
+
 ## Update github repository
 After a successful job, we need to update our github repository.
 ```
@@ -221,7 +224,6 @@ Branching back to the main branch and merge locally
 git checkout main
 git pull origin main
 ```
-
 
 ## Problems Encountered and Solutions
 While working on this project, I encountered some setbacks which I'll be talking about in this section. The solutions are attached to each problem. They're are as follows:
